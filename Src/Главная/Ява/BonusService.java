@@ -7,6 +7,8 @@ public class BonusService {
             bonus = limit;
         }
         return bonus;
+        import static org.junit.jupiter.api.Assertions.*;
+
     }
 }
 
